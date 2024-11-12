@@ -27,7 +27,7 @@ div{
     align-items: center;
     font-size: 4rem;
     transform: rotate(-5deg);
-    text-shadow: 1px 1px 1px #640366 2px 2 px 3px #270a1f;
+    text-shadow: 1px 1px 1px #640366, 2px 2px 3px #270a1f;
     font-family: airport;
 }
 .container{
@@ -49,7 +49,7 @@ nav>ul li{
     display:block;
     font-family: any;
     border: 2px solid #c2b1b4;
-    background: radial-gradient(#ec8270 #ed634b);
+    background: radial-gradient(#ec8270, #ed634b);
     border-radius: 10px;
     height: 50px;
     font-size: 1.2rem;
